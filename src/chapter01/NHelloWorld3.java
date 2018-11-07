@@ -12,6 +12,7 @@ public class NHelloWorld3 {
 				
 				int sum = 0;
 			
+				//test
 				for(int i = 1; i <=count; i++) {
 					sum += i;
 					
