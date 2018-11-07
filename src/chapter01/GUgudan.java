@@ -10,7 +10,8 @@ public class GUgudan {
 			while (j <= 9)
 			
 			System.out.println(i + " * " + j + " = " + i*j );{
-			j = j + 1;}
+			j = j + 1;
+		}
 			{
            i = i + 1;
 	}
